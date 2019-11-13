@@ -7,7 +7,7 @@ body {
 .callout-container {
     height: 100vh;
 
-    background: src="https://raw.githubusercontent.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/master/04-BeyondBootstrap/01-updating_our_callout/images/whiskey-background.jpg" no-repeat center center fixed; 
+    background: url("https://github.com/JSudron/bootstrap4-nextbigidea/blob/3bff87d0a439365321c6954d35a197e13e20d59b/images/whiskey-background.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
